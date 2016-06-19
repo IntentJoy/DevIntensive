@@ -16,7 +16,6 @@
             android:layout_height="wrap_content"
             android:textSize="@dimen/font_larger_22"
             android:layout_gravity="center_horizontal"
-            android:onClick="onClickBtn1"
             android:text="@string/text.button1"
             android:gravity="center"/>
 
@@ -26,7 +25,6 @@
             android:layout_height="wrap_content"
             android:textSize="@dimen/font_larger_22"
             android:layout_gravity="center_horizontal"
-            android:onClick="onClickBtn2"
             android:text="@string/text.button2"
             android:gravity="center"/>
 
